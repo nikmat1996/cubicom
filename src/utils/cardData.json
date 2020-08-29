@@ -1,0 +1,23 @@
+[
+    {
+        "number": 121,
+        "heading": "BOOKING",
+        "subHead": "No. of Waybills",
+        "icon": "chart.png"
+    },{
+        "number": 55,
+        "heading": "OFD",
+        "subHead": "Out of Delivery",
+        "icon": "truck.png"
+    },{
+        "number": 430,
+        "heading": "DEL",
+        "subHead": "Delivered",
+        "icon": "upwardTick.png"
+    },{
+        "number": 23,
+        "heading": "UNDEL",
+        "subHead": "Undelivered",
+        "icon": "perpendicular.png"
+    }
+]
